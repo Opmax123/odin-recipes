@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes:
+In this project i created a file called index.html for food recipe. I created two recipes in this file: Chicken curry and lasagna. If you are seeking for recipes on how to makes these two feel free to check the site.
